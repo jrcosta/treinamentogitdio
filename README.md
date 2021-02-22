@@ -1,4 +1,4 @@
-# Livro de receitas
+# Livro de receitas :knife: :cut_of_meat:
 
 Olá bem vindo ao meu livro de receitas.
 
